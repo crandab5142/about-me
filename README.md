@@ -1,2 +1,7 @@
-# about-me
-My first GitHub project
+# About Me  My name is Ben Crandall
+My interests are:
+Gaming
+Swimming
+Reading
+learning
+---------
