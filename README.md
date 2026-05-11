@@ -5,3 +5,5 @@ Swimming
 Reading
 learning
 ---------
+My favorite dogs
+ ![My Photo](download.jpg)
